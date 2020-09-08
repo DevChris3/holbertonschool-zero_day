@@ -1,2 +1,1 @@
-# holbertonschool-zero_day
-Hola mi nombre es Andres Campo
+Hola mi nombre es Andres Campo, Soy estudiante nuevo de Holberton
