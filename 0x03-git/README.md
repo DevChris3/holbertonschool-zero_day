@@ -1,1 +1,1 @@
-This file is for to use EMACS 
+This is the file for user git 
