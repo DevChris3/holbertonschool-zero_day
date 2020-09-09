@@ -1,1 +1,1 @@
-Hi my name is Andres Campo and this is holberton
+Este README es para explicar acerca de los directorios
