@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash 
-echo "Holberto Hola como "
-=======
-#!/bin/bash
-echo "Holberton Hola como "
->>>>>>> update_script
+echo "Holberton"
