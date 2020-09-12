@@ -1,9 +1,10 @@
-<<<<<<< HEAD
-#!/bin/bash
-<<<<<<< HEAD
-echo "Holberton"
-=======
-#!/bin/bash 
-echo "Holberton"
->>>>>"
->>>>>>> update_script
+ <<<<<<< HEAD
+--#!/bin/bash
+- <<<<<<< HEAD
+- echo "Holberton"
+- =======
+- #!/bin/bash
+- echo "Holberton"
+- >>>>>"
+- >>>>>>> update_script
+ -echo "Holberton Hola como estas"
