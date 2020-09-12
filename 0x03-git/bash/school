@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 #!/bin/bash
+<<<<<<< HEAD
 =======
 #!/bin/bash 
 >>>>>>> 48e0857ee26c1980d1f47c3de0d2aefd79fab65b
 echo "School"
+=======
+echo "School"
+>>>>>>> update_script
